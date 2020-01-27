@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> Ghibli </string>
+    <string name="question">"Which one of these characters can be found in the movie 'Castle in the sky' ?"</string>
+</resources>
